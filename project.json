@@ -1,7 +1,7 @@
 {
   "name": "Debugging",
   "description": "Debug your colleague's workflow",
-  "main": "Main.xaml",
+  "main": "Practice_1_Exercise_Debugging_and_Exception_Handling\\Practice_1_Exercise_Debugging_and_Exception_Handling\\Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.Mail.Activities": "[1.10.5]",
@@ -44,6 +44,12 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "500603ab-6720-4d8b-88f4-149faf6e8da7",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Practice_1_Exercise_Debugging_and_Exception_Handling\\Practice_1_Exercise_Debugging_and_Exception_Handling\\Main.xaml",
+      "uniqueId": "baf90cbf-0d62-4c14-827f-9900b8529e68",
       "input": [],
       "output": []
     }
